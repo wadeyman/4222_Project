@@ -1,0 +1,10 @@
+gdown
+pandas
+numpy
+matplotlib
+seaborn
+bs4
+nltk
+spacy
+wordcloud
+scikit-learn
